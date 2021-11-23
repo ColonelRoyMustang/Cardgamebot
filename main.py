@@ -291,6 +291,6 @@ class MyClient(discord.Client):
 
 
 client = MyClient()
-client.run("")
+client.run("add_your_server_token_here!")
 
 
